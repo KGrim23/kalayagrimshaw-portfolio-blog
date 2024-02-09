@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+    min-height: 0;
+    box-sizing: border-box;
+}
+.avator{
+    width: 80px;
+    border-radius: 50%;
+    border: 4px solid #003554;
+    margin-top: 10px;
+}
+
+.hero-text{
+    font-size: 1.3rem;
+}
+
+h1{
+    font-family: Monaco;
+    font-size: 2rem;
+    overflow-y: hidden;
+}
+
+.navbar-nav .btn{
+    background-color: #003554;
+}
+
+
+.row{
+    justify-content: center;
+}
+
+.project-img{
+    width: 200px;
+    height: 150px;
+    border: 4px solid rgb(17, 17, 144);
+    border-radius: 10px;
+}
+
+label{
+    font-size: 20px;
+}
+
+a.viewButton{
+    background-color:#003554;
+}
+
+
+
+
+
+
+
+
+
+
+
+
