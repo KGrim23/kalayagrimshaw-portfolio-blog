@@ -1,9 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
     min-height: 0;
     box-sizing: border-box;
+    font-family: poppins, roboto, sans-serif;
 }
 .avator{
     width: 80px;
@@ -17,15 +21,14 @@
 }
 
 h1{
-    font-family: Monaco;
+    font-family: roboto, sans-serif;
     font-size: 2rem;
     overflow-y: hidden;
 }
 
 .navbar-nav .btn{
-    background-color: #003554;
+    border: none;
 }
-
 
 .row{
     justify-content: center;
