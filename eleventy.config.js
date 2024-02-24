@@ -15,6 +15,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("script.js");
 	eleventyConfig.addPassthroughCopy("styles.css");
 	eleventyConfig.addPassthroughCopy("contact.html");
+	eleventyConfig.addPassthroughCopy("blogs.html");
 	
 	eleventyConfig.addPassthroughCopy({
 		"./public/": "/",
