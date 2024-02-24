@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap');
+
 
 *{
     margin: 0;
@@ -52,7 +52,7 @@ a.viewButton{
 
 /* Blog Posts */
 .blogs-text{
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     margin-top: 10px;
     margin-bottom: 10px;
     color: #003554;
