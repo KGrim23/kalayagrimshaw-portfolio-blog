@@ -26,6 +26,7 @@ h1{
 
 .navbar-nav .btn{
     border: none;
+    align-items: center;
 }
 
 .row{
