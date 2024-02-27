@@ -25,7 +25,7 @@ h1{
 }
 
 h5{
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .navbar-nav .btn{
@@ -38,7 +38,7 @@ h5{
 }
 
 .project-img{
-    width: 200px;
+    width: 250px;
     height: 150px;
     border: none;
     border-radius: 10px;
