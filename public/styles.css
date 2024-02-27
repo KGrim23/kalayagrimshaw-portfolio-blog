@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     min-height: 0;
     box-sizing: border-box;
     font-family: Merriweather, poppins, roboto, sans-serif;
@@ -27,6 +27,7 @@ h1{
 
 h5{
     font-size: 14px;
+    
 }
 
 .navbar-nav .btn{
@@ -68,7 +69,9 @@ h4{
     font-size: 12px;
 }
 
-
+.blog-headings{
+    overflow-x: hidden;
+}
 
 
 
