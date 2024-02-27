@@ -24,6 +24,10 @@ h1{
     overflow-y: hidden;
 }
 
+h5{
+    font-size: 16px;
+}
+
 .navbar-nav .btn{
     border: none;
     align-items: center;
@@ -55,7 +59,7 @@ a.viewButton{
     margin-top: 10px;
     margin-bottom: 10px;
     color: #003554;
-    line-height: 2;
+    line-height: 1.6;
 }
 
 
