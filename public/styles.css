@@ -4,6 +4,7 @@
     padding: 0;
     /*overflow-x: hidden;*/
     min-height: 0;
+    max-width: max-content;
     box-sizing: border-box;
     font-family: poppins, roboto, sans-serif;
 }
