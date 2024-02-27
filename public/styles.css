@@ -18,12 +18,11 @@
     font-size: 1.3rem;
 }
 
-h1{
+.greeting-text{
     font-family: Merriweather, sans-serif;
-    font-size: 2rem;
+    font-size: 20px;
     overflow-y: hidden;
     color: #720e9e;
-    
 }
 
 h5{
