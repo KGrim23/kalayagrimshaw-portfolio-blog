@@ -5,7 +5,7 @@
     overflow-x: hidden;
     min-height: 0;
     box-sizing: border-box;
-    font-family: poppins, roboto, sans-serif;
+    font-family: Merriweather, poppins, roboto, sans-serif;
 }
 .avator{
     width: 80px;
@@ -19,9 +19,11 @@
 }
 
 h1{
-    font-family: roboto mono, sans-serif;
+    font-family: Merriweather, sans-serif;
     font-size: 2rem;
     overflow-y: hidden;
+    color: #720e9e;
+    
 }
 
 h5{
