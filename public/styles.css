@@ -20,6 +20,10 @@
     font-family: poppins, sans-serif;
 }
 
+.hero-img{
+    border-radius: 30px;
+}
+
 h1{
     font-family: Merriweather, sans-serif;
     font-size: 16px;
