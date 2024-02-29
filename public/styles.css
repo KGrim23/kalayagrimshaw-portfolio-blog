@@ -15,8 +15,9 @@
 }
 
 .hero-text{
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: left;
+    font-family: poppins, sans-serif;
 }
 
 h1{
