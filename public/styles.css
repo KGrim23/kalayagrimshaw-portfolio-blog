@@ -8,7 +8,7 @@
     font-family: Merriweather, poppins, roboto, sans-serif;
 }
 .avator{
-    width: 80px;
+    width: 70px;
     border-radius: 50%;
     border: 4px solid #003554;
     margin-top: 10px;
@@ -40,7 +40,7 @@ h5{
 }
 
 .project-img{
-    width: 250px;
+    width: 200px;
     height: 150px;
     border: none;
     border-radius: 10px;
