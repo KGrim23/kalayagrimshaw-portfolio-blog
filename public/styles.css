@@ -53,6 +53,7 @@ h5{
     height: 150px;
     border: none;
     border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .projects{
     font-family: poppins, sans-serif;
