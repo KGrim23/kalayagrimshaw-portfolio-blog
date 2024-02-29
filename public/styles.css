@@ -36,6 +36,7 @@ h1{
 h5{
     font-size: 0.8rem;
     font-family: poppins, sans-serif;
+    overflow-y: hidden;
 }
 
 .navbar-nav .btn{
