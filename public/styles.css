@@ -22,12 +22,12 @@
 
 .hero-img{
     border-radius: 30px;
-    width: 520px;
+    width: 540px;
     height: 480px;
 }
 
 h1{
-    font-family: Merriweather, sans-serif;
+    font-family: poppins, sans-serif;
     font-size: 16px;
     overflow-y: hidden;
     color: #720e9e;
