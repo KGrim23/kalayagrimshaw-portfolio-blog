@@ -47,6 +47,9 @@ h5{
     border: none;
     border-radius: 10px;
 }
+.projects{
+    font-family: poppins, sans-serif;
+}
 
 label{
     font-size: 20px;
