@@ -104,7 +104,7 @@ a.viewButton{
 
 }
 
-.button:hover {
+.contactBtn:hover {
     box-shadow: 0 10px 8px 0 rgba(180, 80, 8, 0.758), 0 17px 50px 0 rgba(235, 122, 2, 0.734);
   }
 
