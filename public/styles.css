@@ -93,10 +93,16 @@ a.viewButton{
 }
 
 .tech-stack{
-    margin-right: 35px;
     margin-top: 20px;
     align-items: center;
 }
+
+.tech-stack img{
+    margin-right: 35px;
+    
+}
+
+
 
 
 
