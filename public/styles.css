@@ -79,6 +79,7 @@ label{
 a.viewButton{
     background-color: black;
     color: white;
+    font-size: 14px;
 }
 
 a.viewButton:hover{
