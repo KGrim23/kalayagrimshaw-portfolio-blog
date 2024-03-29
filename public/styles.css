@@ -93,8 +93,9 @@ a.viewButton{
 }
 
 .tech-stack{
-    margin-right: 10px;
+    margin-right: 20px;
     margin-top: 20px;
+    align-items: center;
 }
 
 
