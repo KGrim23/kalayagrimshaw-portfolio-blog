@@ -95,6 +95,7 @@ a.viewButton{
 .tech-stack{
     margin-top: 20px;
     align-items: center;
+    overflow: hidden;
 }
 
 .tech-stack img{
@@ -110,7 +111,7 @@ a.viewButton{
     .grow img:hover{
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
-    transform: scale(1.2);
+    transform: scale(1.5);
     transition: 1s ease;
     }
 
