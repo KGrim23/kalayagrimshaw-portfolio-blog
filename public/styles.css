@@ -13,7 +13,7 @@
     border: 4px solid black;
     margin-top: 10px;
 }
-.greeting{
+.greeting .job{
     color: orangered;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
