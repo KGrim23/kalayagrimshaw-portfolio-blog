@@ -130,6 +130,9 @@ a.viewButton:hover{
     transform: scale(1.5);
     transition: 1s ease;
     }
+a{
+    text-decoration: none;
+}
 
 
 
