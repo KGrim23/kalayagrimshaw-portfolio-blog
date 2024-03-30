@@ -7,6 +7,11 @@
     box-sizing: border-box;
     font-family: Merriweather, poppins, roboto, sans-serif;
 }
+body{
+    background-color: antiquewhite;
+
+}
+
 .avator{
     width: 70px;
     border-radius: 50%;
@@ -14,7 +19,7 @@
     margin-top: 10px;
 }
 .greeting, .job{
-    color: orangered;
+    color: rgb(17, 105, 108);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -23,7 +28,7 @@
     text-align: left;
     font-family: poppins, sans-serif;
     color: rgb(11, 2, 2);
-    line-height: 1.5;
+    line-height: 1.8;
 }
 
 .hero-img{
