@@ -113,13 +113,14 @@ a.viewButton:hover{
     height: auto;
     display: flex;
     flex-wrap: wrap;
+    gap: 20px;
 }
-
+/* 
 .tech-stack img{
     margin-right: 25px;
     margin-top: 10px;
 
-}
+} */
 
 .contactBtn:hover {
     box-shadow: 0 10px 8px 0 rgba(16, 16, 16, 0.283), 0 17px 50px 0 rgba(30, 18, 4, 0.545);
